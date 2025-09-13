@@ -53,33 +53,7 @@
     color: red;
     transition: all ease-in-out ;
  }
-@media (max-width: 768px) {
-  .header {
-    flex-direction: column;
-    height: auto;
-    padding: 10px;
-  }
 
-  .content {
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-  }
-
-  .content a {
-    font-size: 16px;
-    padding: 10px;
-    width: 100%;
-    text-align: center;
-    border-bottom: 1px solid #eee;
-  }
-
-
-  .content a {
-    font-size: 14px;
-    padding: 8px;
-  }
-}
 
 
  .search{
@@ -282,4 +256,5 @@
     font-size: 25px;
 
 }
+
 
